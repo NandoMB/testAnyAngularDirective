@@ -1,0 +1,27 @@
+{
+  "name": "testAnyAngularDirective",
+  "version": "1.0.0",
+  "description": "How do you test an AngularJS directive?",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "authors": [ "Fernando Machado Bernardino <fernandombernardino@gmail.com>" ],
+  "keywords": [ "angular", "directive", "test", "jasmine", "karma" ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "~1.3.17",
+    "angular-mocks": "~1.3.17"
+  },
+  "resolutions": {
+    "angular": "1.3.17"
+  }
+}

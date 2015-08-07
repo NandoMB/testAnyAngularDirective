@@ -1,0 +1,15 @@
+{
+  "name": "testAnyAngularDirective",
+  "version": "1.0.0",
+  "description": "How do you test an AngularJS directive?",
+  "author": "Fernando Machado Bernardino <fernandombernardino@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.7",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.5.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-ng-html2js-preprocessor": "^0.1.2"
+  }
+}
